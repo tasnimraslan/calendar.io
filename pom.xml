@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>uy.com</groupId>
-	<artifactId>calendar.io</artifactId>
+	<artifactId>calendario</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>calendar.io</name>
 	<description>calendar / to-do application</description>
