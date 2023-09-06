@@ -1,4 +1,3 @@
-package model.src;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
