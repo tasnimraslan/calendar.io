@@ -1,4 +1,4 @@
-package api.src;
+package uy.com.calendario.api;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
