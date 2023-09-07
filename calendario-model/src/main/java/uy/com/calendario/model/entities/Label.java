@@ -1,4 +1,4 @@
-package uy.com.calendario.model;
+package uy.com.calendario.model.entities;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;
